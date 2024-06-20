@@ -1,7 +1,8 @@
 # scanpix
-<h3>Procuramos DEV interessado.</h3>
-São 3 sites a disposição:<br>
+<h3>Procuramos DEV interessado para co-founder.</h3>
+São 4 sites a escolha:<br>
 scanpix.com.br (meio de pagto exclusivo via pix),<br>
 scanpay.com.br (meio de pagto completo para substituir maquininha),<br>
-zedinheiro.com.br (comunidade e notícias da área financeiras)<br>
+zedinheiro.com.br (comunidade de notícias da área financeira)<br>
+webemporio.com.br (e-commerce de produtos)<br>
 Contato: 99lisb@gmail.com
